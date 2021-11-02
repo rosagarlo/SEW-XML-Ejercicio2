@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <name>Gijón, Asturias</name>
+  <description>Lugar de nacimiento de Rosa García López</description>
+  <Point>
+    <coordinates>-5.607337582, 43.525138166, 30</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Taramundi, Asturias</name>
+  <description>Lugar de nacimiento de José Manuel García Flórez</description>
+  <Point>
+    <coordinates>-7.1088221, 43.3605685, 6</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name></name>
+  <description>Lugar de fallecimiento de José Manuel García Flórez</description>
+  <Point>
+    <coordinates></coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Taramundi, Asturias</name>
+  <description>Lugar de nacimiento de Jorge García Feito</description>
+  <Point>
+    <coordinates>-7.1088221, 43.3605685, 6</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name></name>
+  <description>Lugar de fallecimiento de Jorge García Feito</description>
+  <Point>
+    <coordinates></coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Taramundi, Asturias</name>
+  <description>Lugar de nacimiento de Juan García Cea</description>
+  <Point>
+    <coordinates>-7.1088221, 43.3605685, 6</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Taramundi, Asturias</name>
+  <description>Lugar de fallecimiento de Juan García Cea</description>
+  <Point>
+    <coordinates>-7.1088221, 43.3605685, 6</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Taramundi, Asturias</name>
+  <description>Lugar de nacimiento de Isabel Feito Novoa</description>
+  <Point>
+    <coordinates>-7.1088221, 43.3605685, 6</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Taramundi, Asturias</name>
+  <description>Lugar de fallecimiento de Isabel Feito Novoa</description>
+  <Point>
+    <coordinates>-7.1088221, 43.3605685, 6</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Figueroa, A Coruña</name>
+  <description>Lugar de nacimiento de Rosa Flórez Río</description>
+  <Point>
+    <coordinates>-8.0858, 42.9248, 15</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name></name>
+  <description>Lugar de fallecimiento de Rosa Flórez Río</description>
+  <Point>
+    <coordinates></coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Figueroa, A Coruña</name>
+  <description>Lugar de nacimiento de Miguel Flórez Fernández</description>
+  <Point>
+    <coordinates>-8.0858, 42.9248, 15</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Figueroa, A Coruña</name>
+  <description>Lugar de fallecimiento de Miguel Flórez Fernández</description>
+  <Point>
+    <coordinates>-8.0858, 42.9248, 15</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Figueroa, A Coruña</name>
+  <description>Lugar de nacimiento de María Río Vega</description>
+  <Point>
+    <coordinates>-8.0858, 42.9248, 15</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Figueroa, A Coruña</name>
+  <description>Lugar de fallecimiento de María Río Vega</description>
+  <Point>
+    <coordinates>-8.0858, 42.9248, 15</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Trabada, Lugo</name>
+  <description>Lugar de nacimiento de María Concepción López Rodríguez</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name></name>
+  <description>Lugar de fallecimiento de María Concepción López Rodríguez</description>
+  <Point>
+    <coordinates></coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Cospeito, Lugo</name>
+  <description>Lugar de nacimiento de Eladio López Barral</description>
+  <Point>
+    <coordinates>-7.558333, 43.236111, 33</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Trabada, Lugo</name>
+  <description>Lugar de fallecimiento de Eladio López Barral</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Cospeito, Lugo</name>
+  <description>Lugar de nacimiento de Uxio López Callado</description>
+  <Point>
+    <coordinates>-7.558333, 43.236111, 33</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Cospeito, Lugo</name>
+  <description>Lugar de fallecimiento de Uxio López Callado</description>
+  <Point>
+    <coordinates>-7.558333, 43.236111, 33</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Cospeito, Lugo</name>
+  <description>Lugar de nacimiento de Constantina Barral</description>
+  <Point>
+    <coordinates>-7.558333, 43.236111, 33</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Cospeito, Lugo</name>
+  <description>Lugar de fallecimiento de Constantina Barral</description>
+  <Point>
+    <coordinates>-7.558333, 43.236111, 33</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Trabada, Lugo</name>
+  <description>Lugar de nacimiento de María Josefa Rodríguez Lago</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name></name>
+  <description>Lugar de fallecimiento de María Josefa Rodríguez Lago</description>
+  <Point>
+    <coordinates></coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Trabada, Lugo</name>
+  <description>Lugar de nacimiento de Cesar Rodríguez</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Trabada, Lugo</name>
+  <description>Lugar de fallecimiento de Cesar Rodríguez</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Trabada, Lugo</name>
+  <description>Lugar de nacimiento de Caridade Lago</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+<name>Trabada, Lugo</name>
+  <description>Lugar de fallecimiento de Caridade Lago</description>
+  <Point>
+    <coordinates>-7.1942852, 43.4471608, 35</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
