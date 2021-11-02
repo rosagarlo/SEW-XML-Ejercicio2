@@ -1,0 +1,9 @@
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\bin\Debug\SVGConverter.exe.config
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\bin\Debug\SVGConverter.exe
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\bin\Debug\SVGConverter.pdb
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\obj\Debug\SVGConverter.csproj.AssemblyReference.cache
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\obj\Debug\SVGConverter.Properties.Resources.resources
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\obj\Debug\SVGConverter.csproj.GenerateResource.cache
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\obj\Debug\SVGConverter.csproj.CoreCompileInputs.cache
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\obj\Debug\SVGConverter.exe
+C:\Users\rosa_\Documents\Uni\3º\SEW\UO277921-practica2\Ejercicio-2\Tarea3\SVGConverter2\obj\Debug\SVGConverter.pdb

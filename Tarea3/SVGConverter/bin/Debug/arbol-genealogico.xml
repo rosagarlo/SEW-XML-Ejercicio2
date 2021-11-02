@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<arbol xmlns="http://www.uniovi.es"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.uniovi.es arbolDTD.xsd">
+
+    <estudiante>
+        <persona>
+            <datos>Rosa García López</datos>
+            <nacimiento fecha="2001-09-05" lugar="Gijón, Asturias" coordenadas= "-5.607337582, 43.525138166, 30" />
+            <imagen>media/fotoEstudiante.jpg</imagen>
+            <comentario>Yo</comentario>  
+        </persona>
+
+            <persona>
+                <datos>José Manuel García Flórez</datos>
+                <nacimiento fecha="1967-07-14" lugar="Taramundi, Asturias" coordenadas= "-7.1088221, 43.3605685, 6" />
+                <imagen>media/padreEstudiante.jpg</imagen>
+                <comentario>Padre</comentario>
+
+					<persona>
+						<datos>Jorge García Feito</datos>
+						<nacimiento fecha="1936-10-15" lugar="Taramundi, Asturias" coordenadas= "-7.1088221, 43.3605685, 6" />
+						<imagen>media/abuelo1Estudiante.jpg</imagen>
+						<comentario>Abuelo por parte de padre</comentario>
+						
+							<persona>
+								<datos>Juan García Cea</datos>
+								<nacimiento fecha="1902-01-30" lugar="Taramundi, Asturias" coordenadas= "-7.1088221, 43.3605685, 6" />
+								<fallecimiento fecha ="1989-07-18" lugar="Taramundi, Asturias" coordenadas= "-7.1088221, 43.3605685, 6" />
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Padre de abuelo por parte de padre</comentario>
+							</persona>
+						
+							<persona>
+								<datos>Isabel Feito Novoa</datos>
+								<nacimiento fecha="1906-09-13" lugar="Taramundi, Asturias" coordenadas= "-7.1088221, 43.3605685, 6" />
+								<fallecimiento fecha ="1992-02-22" lugar="Taramundi, Asturias" coordenadas= "-7.1088221, 43.3605685, 6" />
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Madre de abuelo por parte de padre</comentario>
+							</persona>
+					</persona>
+					
+					<persona>
+						<datos>Rosa Flórez Río</datos>
+						<nacimiento fecha="1936-04-21" lugar="Figueroa, A Coruña" coordenadas= "-8.0858, 42.9248, 15"/>
+						<imagen>media/abuela1Estudiante.jpg</imagen>
+						<comentario>Abuela por parte de padre</comentario>
+						
+							<persona>
+								<datos>Miguel Flórez Fernández</datos>
+								<nacimiento fecha="1902-01-30" lugar="Figueroa, A Coruña" coordenadas= "-8.0858, 42.9248, 15"/>
+								<fallecimiento fecha ="1980-08-31" lugar="Figueroa, A Coruña" coordenadas= "-8.0858, 42.9248, 15"/>
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Padre de abuela por parte de padre</comentario>
+							</persona>
+						
+							<persona>
+								<datos>María Río Vega</datos>
+								<nacimiento fecha="1905-03-03" lugar="Figueroa, A Coruña" coordenadas= "-8.0858, 42.9248, 15"/>
+								<fallecimiento fecha ="1983-05-06" lugar="Figueroa, A Coruña" coordenadas= "-8.0858, 42.9248, 15"/>
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Madre de abuela por parte de padre</comentario>
+							</persona>
+					</persona>
+            </persona>
+
+            <persona>
+                <datos>María Concepción López Rodríguez</datos>
+                <nacimiento fecha="1972-04-16" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+                <imagen>media/madreEstudiante.jpg</imagen>
+                <comentario>Madre</comentario>
+				
+					<persona>
+						<datos>Eladio López Barral</datos>
+						<nacimiento fecha="1933-08-05" lugar="Cospeito, Lugo" coordenadas= "-7.558333, 43.236111, 33" />
+						<fallecimiento fecha ="2013-06-21" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+						<imagen>media/abuelo2Estudiante.jpg</imagen>
+						<comentario>Abuelo por parte de madre</comentario>
+						
+							<persona>
+								<datos>Uxio López Callado</datos>
+								<nacimiento fecha="1902-01-30" lugar="Cospeito, Lugo" coordenadas= "-7.558333, 43.236111, 33" />
+								<fallecimiento fecha ="1979-12-11" lugar="Cospeito, Lugo" coordenadas= "-7.558333, 43.236111, 33" />
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Padre de abuelo por parte de madre</comentario>
+							</persona>
+						
+							<persona>
+								<datos>Constantina Barral</datos>
+								<nacimiento fecha="1905-03-03" lugar="Cospeito, Lugo" coordenadas= "-7.558333, 43.236111, 33" />
+								<fallecimiento fecha ="1979-08-13" lugar="Cospeito, Lugo" coordenadas= "-7.558333, 43.236111, 33" />
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Madre de abuelo por parte de madre</comentario>
+							</persona>
+					</persona>
+				
+					<persona>
+						<datos>María Josefa Rodríguez Lago</datos>
+						<nacimiento fecha="1972-04-16" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+						<imagen>media/abuela2Estudiante.jpg</imagen>
+						<comentario>Abuela por parte de madre</comentario>
+						
+
+							<persona>
+								<datos>Cesar Rodríguez</datos>
+								<nacimiento fecha="1902-01-30" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+								<fallecimiento fecha ="1984-03-28" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Padre de abuela por parte de madre</comentario>
+							</persona>
+						
+							<persona>
+								<datos>Caridade Lago</datos>
+								<nacimiento fecha="1905-03-03" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+								<fallecimiento fecha ="1985-02-14" lugar="Trabada, Lugo" coordenadas= "-7.1942852, 43.4471608, 35"/>
+								<imagen>media/bisabueloEstudiante.jpg</imagen>
+								<comentario>Madre de abuela por parte de madre</comentario>
+							</persona>
+					</persona>
+            </persona>
+    </estudiante>
+</arbol>
